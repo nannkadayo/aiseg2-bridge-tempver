@@ -1,6 +1,7 @@
 # AiSEG2 Bridge for Home Assistant
 
 AiSEG2（Panasonic製エネルギーモニター）とHome Assistantを接続するブリッジ統合。
+Claudeの力によって温度計の温度の取得も可能になりました。
 
 ## 機能
 
